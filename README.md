@@ -1,6 +1,8 @@
 # Qzone-Spider
 python+selenium+chrome爬取好友QQ空间历史动态
 
+-爬取内容包括说说文本和图片
+
 -使用说明：
 
 -1、请确保您已登录QQ
